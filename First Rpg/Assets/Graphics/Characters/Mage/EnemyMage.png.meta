@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: bb85afb2f44dd4d4a9b7e0ee4aa66c04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3713219614965599903
+    second: AnimationSheet_Character_0
+  - first:
+      213: 311313206353282233
+    second: AnimationSheet_Character_1
+  - first:
+      213: 8850812538702202974
+    second: AnimationSheet_Character_2
+  - first:
+      213: 5846837216380773599
+    second: AnimationSheet_Character_3
+  - first:
+      213: 4672654148239114036
+    second: AnimationSheet_Character_4
+  - first:
+      213: 9056928846778740707
+    second: AnimationSheet_Character_5
+  - first:
+      213: -2833313214525304144
+    second: AnimationSheet_Character_6
+  - first:
+      213: 7085597507905639842
+    second: AnimationSheet_Character_7
+  - first:
+      213: -488417364468510912
+    second: AnimationSheet_Character_8
+  - first:
+      213: -4328810906936861948
+    second: AnimationSheet_Character_9
+  - first:
+      213: 2854689406478089322
+    second: AnimationSheet_Character_10
+  - first:
+      213: -7422314350685951049
+    second: AnimationSheet_Character_11
+  - first:
+      213: 8754412065439869294
+    second: AnimationSheet_Character_12
+  - first:
+      213: 1610950644729645800
+    second: AnimationSheet_Character_13
+  - first:
+      213: -8698871921130758087
+    second: AnimationSheet_Character_14
+  - first:
+      213: 7337240350965977037
+    second: AnimationSheet_Character_15
+  - first:
+      213: -3594607608646050002
+    second: AnimationSheet_Character_16
+  - first:
+      213: -2633907200055978337
+    second: AnimationSheet_Character_17
+  - first:
+      213: 8826152934992254937
+    second: AnimationSheet_Character_18
+  - first:
+      213: 3745119269783253895
+    second: AnimationSheet_Character_19
+  - first:
+      213: 511153153249456005
+    second: AnimationSheet_Character_20
+  - first:
+      213: -3181080768946697116
+    second: AnimationSheet_Character_21
+  - first:
+      213: -8200045429233390519
+    second: AnimationSheet_Character_22
+  - first:
+      213: -4200419795541352720
+    second: AnimationSheet_Character_23
+  - first:
+      213: 5721645191469666262
+    second: AnimationSheet_Character_24
+  - first:
+      213: 3701378633954350243
+    second: AnimationSheet_Character_25
+  - first:
+      213: -7828884350363752177
+    second: AnimationSheet_Character_26
+  - first:
+      213: -6389639697227723478
+    second: AnimationSheet_Character_27
+  - first:
+      213: 4504427564731523635
+    second: AnimationSheet_Character_28
+  - first:
+      213: 8871655505140566702
+    second: AnimationSheet_Character_29
+  - first:
+      213: -7956169229568373306
+    second: AnimationSheet_Character_30
+  - first:
+      213: 1172661316156776261
+    second: AnimationSheet_Character_31
+  - first:
+      213: 1682658199989020211
+    second: AnimationSheet_Character_32
+  - first:
+      213: 1589269694107343541
+    second: AnimationSheet_Character_33
+  - first:
+      213: -7253421342018006133
+    second: AnimationSheet_Character_34
+  - first:
+      213: -944637137217298095
+    second: AnimationSheet_Character_35
+  - first:
+      213: -908227023647090255
+    second: AnimationSheet_Character_36
+  - first:
+      213: -6589396301516442169
+    second: AnimationSheet_Character_37
+  - first:
+      213: 2241575955824274185
+    second: AnimationSheet_Character_38
+  - first:
+      213: -4962132113712554755
+    second: AnimationSheet_Character_39
+  - first:
+      213: 5586016737365727189
+    second: AnimationSheet_Character_40
+  - first:
+      213: -2960336494165534132
+    second: AnimationSheet_Character_41
+  - first:
+      213: 3096850651442554691
+    second: AnimationSheet_Character_42
+  - first:
+      213: 4123603183123714085
+    second: AnimationSheet_Character_43
+  - first:
+      213: 520556416462525903
+    second: AnimationSheet_Character_44
+  - first:
+      213: -580482337852342584
+    second: AnimationSheet_Character_45
+  - first:
+      213: -7424985502434106660
+    second: AnimationSheet_Character_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyMage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a9913b19dc5845bef2ece3113dbc1
+      internalID: -1312656598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0be8b6a0a58a04dacdfbed3acd7188
+      internalID: -985655674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8974e97805839c641bf835c23d85433c
+      internalID: -325218954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ea9ea03ad90640805e529d5c395b8
+      internalID: 1652870786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd7832b616f6ab4e9026da162a2ad0e
+      internalID: 415806805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc80e35c4e269254396db58a5f2a15e7
+      internalID: -686608070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8797f6decf93f05469bd7b53922b9b9e
+      internalID: 327415091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e1710ce77243c49be17ac169f9465c
+      internalID: 137322010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cd8d95938c29342a5c4f840c2fb54e
+      internalID: 413619539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbcc558cdf6ad24d810a2ef3ae23aa9
+      internalID: -110187140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224d882e13a8e04ab30eeea24b23aa2
+      internalID: -17346988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673a877411ce394d93a783949a43071
+      internalID: -974140849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55365411243acbc4a816cb85cd19d336
+      internalID: 398104325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b3a714199c73a47b5dd9aa25f15f7c
+      internalID: -98291872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677e2defd79d8d4e9230c2f212deda6
+      internalID: 1394439696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59569c431fdb164d9ce974b86e71f1b
+      internalID: -159144904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3589b86e4f88e42bcc88d931146888
+      internalID: -2126799740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4c65c5dbcd0949ad0a2e905f25fe4
+      internalID: 266406294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38561d360dca4e4f8888afbb39149ec
+      internalID: -490016999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyMage_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff176a1840ce14e83c818c9bcb64f7
+      internalID: -445942305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d5aa92a880708e42b03ca56f8d57659
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyMage_0: -1312656598
+      EnemyMage_1: -985655674
+      EnemyMage_10: -397768909
+      EnemyMage_11: 1885713800
+      EnemyMage_12: -880267297
+      EnemyMage_13: 1732313864
+      EnemyMage_14: 622793829
+      EnemyMage_15: -2080267330
+      EnemyMage_16: 327415091
+      EnemyMage_17: 137322010
+      EnemyMage_18: 413619539
+      EnemyMage_19: -110187140
+      EnemyMage_2: -161740261
+      EnemyMage_20: -17346988
+      EnemyMage_21: -974140849
+      EnemyMage_22: 551542821
+      EnemyMage_23: 672943363
+      EnemyMage_24: -1757684981
+      EnemyMage_25: -1273924073
+      EnemyMage_26: 325648138
+      EnemyMage_27: 2093609476
+      EnemyMage_28: -678987175
+      EnemyMage_29: 1988679285
+      EnemyMage_3: 1574986439
+      EnemyMage_30: -2147333861
+      EnemyMage_31: 1788573380
+      EnemyMage_32: 27033251
+      EnemyMage_33: 1774436012
+      EnemyMage_34: -1032178087
+      EnemyMage_35: 117357810
+      EnemyMage_36: 1298700878
+      EnemyMage_37: -213943532
+      EnemyMage_38: -1845575623
+      EnemyMage_39: 1652651873
+      EnemyMage_4: -325218954
+      EnemyMage_40: -819112686
+      EnemyMage_41: -1177403958
+      EnemyMage_42: 398104325
+      EnemyMage_43: -98291872
+      EnemyMage_44: 1394439696
+      EnemyMage_45: -159144904
+      EnemyMage_46: -2126799740
+      EnemyMage_47: 266406294
+      EnemyMage_48: -490016999
+      EnemyMage_49: -445942305
+      EnemyMage_5: 1652870786
+      EnemyMage_6: 415806805
+      EnemyMage_7: -686608070
+      EnemyMage_8: -992460757
+      EnemyMage_9: -2028545519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

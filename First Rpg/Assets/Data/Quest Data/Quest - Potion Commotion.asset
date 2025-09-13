@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d38b774645581e4680c5257251e4fcb, type: 3}
+  m_Name: Quest - Potion Commotion
+  m_EditorClassIdentifier: 
+  questSaveId: a1cec92fdbcd45f4f97e0f68a23908c0
+  questType: 2
+  questName: Potion Commotion
+  description: bring a thing to others.
+  questGoal: '- Deliver health potion to Bob:'
+  questTargetId: 
+  requiredAmount: 4
+  itemToDeliver: {fileID: 11400000, guid: 4474e6167c879814ea1f6da8fb48d6d5, type: 2}
+  rewardType: 0
+  rewardItems:
+  - itemData: {fileID: 11400000, guid: 29a50dd45fb8f334cb05297a75895b3e, type: 2}
+    stackSize: 1
+    itemEffect: {fileID: 0}

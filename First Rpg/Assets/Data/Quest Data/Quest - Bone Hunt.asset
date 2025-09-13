@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d38b774645581e4680c5257251e4fcb, type: 3}
+  m_Name: Quest - Bone Hunt
+  m_EditorClassIdentifier: 
+  questSaveId: 738ef3e6ae1376d41b067cb7b445ece3
+  questName: Bone Hunt
+  description: Help Merchant kill some skeletons.
+  questGoal: '- Eliminate skeletons:'
+  questTargetId: enemy_skeleton
+  requiredAmount: 2
+  rewardType: 0
+  rewardItems:
+  - itemData: {fileID: 11400000, guid: 29a50dd45fb8f334cb05297a75895b3e, type: 2}
+    stackSize: 1
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: d5461fc836bb29e48962e507865782d3, type: 2}
+    stackSize: 2
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: c0833cc4a415c9349b8987f4b2f7ff81, type: 2}
+    stackSize: 2
+    itemEffect: {fileID: 0}
